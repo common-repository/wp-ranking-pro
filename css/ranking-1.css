@@ -1,0 +1,71 @@
+.wprp-list {
+    list-style-type : none;
+    margin          : 0 0 0 0;
+}
+
+.wprp-list li {
+    display:inline-block;
+    border-bottom  : 1px solid #dcdcdc;
+    line-height    : 150%;
+    margin         : 0 0 10px 0;
+    padding-bottom : 10px;
+}
+
+.wprp-list li:last-child {
+    border-bottom:none;
+}
+
+.wprp-thumbnail {
+    border  : none;
+    display : inline;
+    float   : left;
+    margin  : 0 5px 0 0;
+}
+
+.wprp-num {
+    background   : #196A93;
+    color        : #FFF;
+    font-size    : 60%;
+    font-weight  : bold;
+    margin-right : 5px;
+    padding      : 2px 5px;
+    text-align   : center;
+}
+
+.wprp-post-title a {
+    display : inline;
+}
+
+.wprp-excerpt {
+    display : block;
+    margin-top:3px;
+}
+
+.wprp-post-stats {
+    display : block;
+    text-align:right;
+}
+
+.wprp-category {
+    font-size : 80%;
+}
+
+.wprp-comments {
+    font-size : 80%;
+}
+
+.wprp-views {
+    font-size : 80%;
+}
+
+.wprp-author {
+    font-size : 80%;
+}
+
+.wprp-date {
+    font-size : 80%;
+}
+
+.wprp-custom {
+    font-size : 80%;
+}

@@ -1,0 +1,1015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-28 17:49+0900\n"
+"PO-Revision-Date: 2016-06-07 19:36+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Stellalink, Inc. <info@stellalink.co.jp>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"X-Generator: Poedit 1.8.7\n"
+
+msgid "\"Only thumbnail / title / order indication\" displays it by original HTML"
+msgstr "独自HTMLで「サムネイル/タイトル/順位表示」のみ表示"
+
+msgid "\"WP-Ranking PRO\" creates rankings in various elements"
+msgstr "「WP-Ranking PRO」では日々の記事PV（ページビュー）を集計し、様々な期間、様々な要素でランキングをつくりだします"
+
+msgid "\"WP-Ranking PRO\" totals a page view, and into which a popular article can be formed by various elements or periods."
+msgstr "「WP-Ranking PRO」は日々の記事PV（ページビュー）を集計し、様々な期間、様々な要素で人気記事ランキングを生成できるプラグインです"
+
+msgid "(Display a ranking for 24h of custom post name \"custom1\")"
+msgstr "（カスタムポスト名「custom1」の24hランキングを表示）"
+
+msgid "(Exclude a contribution including category name \"cat1\" and tag name \"tag1\" from a ranking)"
+msgstr "（カテゴリ名「cat1」及びタグ名「tag1」を含む投稿をランキングから除外）"
+
+msgid "(Exclude posts ID \"1234\" and \"6789\" from a ranking)"
+msgstr "（投稿ID「1234」及び「6789」をランキングから除外）"
+
+msgid "(A title displayed on WEB. Do not mind it in the blanks either)"
+msgstr "（WEB上に表示されるタイトルです。不要でしたら空欄でも構いません。）"
+
+msgid "(it is a management name and is plain let's name it)"
+msgstr "（管理名です。分かりやすい名前を付けましょう）"
+
+msgid "(there is no first zero)"
+msgstr "(最初のゼロなし)"
+
+msgid "(when I appoint ID, and there is multiple it, it is Comma Separated Value)"
+msgstr "(IDを指定。複数ある場合はカンマ区切りで)"
+
+msgid "(when I appoint the name, and there is multiple it, it is Comma Separated Value)"
+msgstr "(名前を指定。複数ある場合はカンマ区切りで)"
+
+msgid "1 hour"
+msgstr "1時間"
+
+msgid "12 hour"
+msgstr "12時間"
+
+msgid "1month"
+msgstr "1month"
+
+msgid "1week"
+msgstr "1week"
+
+msgid "1year"
+msgstr "1year"
+
+msgid "entries"
+msgstr "件"
+
+msgid "24 hour"
+msgstr "24時間"
+
+msgid "24H"
+msgstr "24H"
+
+msgid "3 hour"
+msgstr "3時間"
+
+msgid "30 minutes"
+msgstr "30分"
+
+msgid "5 minutes"
+msgstr "5分"
+
+msgid "6 hour"
+msgstr "6時間"
+
+msgid "A category. Output by HTML"
+msgstr "カテゴリです。HTMLで出力されます"
+
+msgid "A custom ranking is non-making"
+msgstr "カスタムランキングが未作成です。"
+
+msgid "ALL"
+msgstr "ALL"
+
+msgid "Add these statistics to a dashboard"
+msgstr "この統計をダッシュボードに追加"
+
+msgid "Added it"
+msgstr "追加しました。"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "All indication"
+msgstr "すべて表示"
+
+msgid "All user"
+msgstr "全ユーザー"
+
+msgid "An article title becomes available"
+msgstr "記事タイトルが入ります"
+
+msgid "An end can input a plural number by a party. I add up the access by the user agent that I appointed as mobile"
+msgstr "一行ずつ区切って複数入力できます。指定したユーザーエージェントによるアクセスをモバイルとして集計します。"
+
+msgid "An end can input a plural number by a party. I do not add up access through applicable re-Farrah"
+msgstr "一行ずつ区切って複数入力できます。該当リファラー経由のアクセスを集計しません。"
+
+msgid "An end can input a plural number by a party. I do not add up the access from an applicable IP address"
+msgstr "一行ずつ区切って複数入力できます。該当IPアドレスからのアクセスを集計しません。"
+
+msgid "An extract enters"
+msgstr "抜粋がはいります"
+
+msgid "Appoint HTML to attach before a ranking title"
+msgstr "ランキングタイトルの前につけるHTMLを指定します"
+
+msgid "Appoint HTML to attach before the ranking body"
+msgstr "ランキング本体の前につけるHTMLを指定します"
+
+msgid "Appoint HTML to attach behind a ranking title"
+msgstr "ランキングタイトルの後ろにつけるHTMLを指定します"
+
+msgid "Appoint HTML to attach behind the ranking body"
+msgstr "ランキング本体の後ろにつけるHTMLを指定します"
+
+msgid "Appoint PV ranking or a comment ranking"
+msgstr "PVランキングか、コメントランキングかを指定します"
+
+msgid "Appoint Post ID to exclude"
+msgstr "除外する投稿IDを指定します"
+
+msgid "Appoint a Tag name to exclude"
+msgstr "除外するタグ名を指定します"
+
+msgid "Appoint a category name to exclude"
+msgstr "除外するカテゴリ名を指定します"
+
+msgid "Appoint a count device"
+msgstr "集計機器を指定します"
+
+msgid "Appoint a count period"
+msgstr "集計期間を指定します"
+
+msgid "Appoint a post type"
+msgstr "投稿タイプを指定します"
+
+msgid "Appoint a type of the order indication"
+msgstr "順位表示のタイプを指定します"
+
+msgid "Appoint it whether you display all the categories"
+msgstr "カテゴリの表示で、すべてを表示するかしないかを指定します"
+
+msgid "Appoint it whether you display all the tags"
+msgstr "タグの表示で、すべてを表示するかしないかを指定します"
+
+msgid "Appoint it whether you use the HTML of the default"
+msgstr "デフォルトのHTMLを使用するかしないかを指定します"
+
+msgid "Appoint it which of a category tag, the creator you filter it by"
+msgstr "カテゴリ・タグ・作成者のいずれによってフィルタするかを指定します"
+
+msgid "Appoint the HTML of the ranking body"
+msgstr "ランキング本体のHTMLを指定します"
+
+msgid "Appoint the format of the date"
+msgstr "日付のフォーマットを指定します"
+
+msgid "Appoint the most big design number of characters of the article extract"
+msgstr "記事抜粋の最大文字数を指定します"
+
+msgid "Appoint the most big design number of characters of the article title"
+msgstr "記事タイトルの最大文字数を指定します"
+
+msgid "Appoint the name of a category tag, the creator to filter"
+msgstr "フィルタするカテゴリ・タグ・作成者の名前を指定します"
+
+msgid "Appoint the name of the custom field to display"
+msgstr "表示するカスタムフィールドの名前を指定します"
+
+msgid "Appoint the number of indication"
+msgstr "表示件数を指定します"
+
+msgid "Appoint the specific custom post"
+msgstr "特定のカスタムポストを指定"
+
+msgid "Appoint the vertical size of the thumbnail"
+msgstr "サムネイルの縦サイズを指定します"
+
+msgid "Appoint the wide size of the thumbnail"
+msgstr "サムネイルの横サイズを指定します"
+
+msgid "Author"
+msgstr "作成者"
+
+msgid "Author of the article"
+msgstr "記事の作成者名です"
+
+msgid "Automatic backup"
+msgstr "自動バックアップ"
+
+msgid "Backup"
+msgstr "バックアップ"
+
+msgid "Backup period"
+msgstr "バックアップ周期"
+
+msgid "Backup space"
+msgstr "バックアップ先"
+
+msgid "Basic description"
+msgstr "基本的な記述"
+
+msgid "Basic setting"
+msgstr "基本設定"
+
+msgid "Because the existing data are cleared, please be careful"
+msgstr "既存のデータはクリアされますのでご注意ください。"
+
+msgid "Before and after ranking"
+msgstr "ランキング前後"
+
+msgid "Cache"
+msgstr "キャッシュ"
+
+msgid "Cache data"
+msgstr "キャッシュデータを"
+
+msgid "Cannot delete last one"
+msgstr "最後の1つは削除できません。"
+
+msgid "Cannot read the directory with data"
+msgstr "データのあるディレクトリを読み込めません。"
+
+msgid "Cannot write in a file at the backup"
+msgstr "バックアップ先にファイルを書き込めません。"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Category name"
+msgstr "カテゴリ名"
+
+msgid "Category to exclude"
+msgstr "除外するカテゴリー"
+
+msgid "Choice of the ranking"
+msgstr "ランキングの選択"
+
+msgid "Clear of the page view"
+msgstr "ページビューのクリア"
+
+msgid "Condition"
+msgstr "条件"
+
+msgid "Count Device"
+msgstr "集計機器"
+
+msgid "Count data"
+msgstr "集計データ"
+
+msgid "Count period"
+msgstr "集計期間"
+
+msgid "Count setting"
+msgstr "集計設定"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Created a custom ranking"
+msgstr "カスタムランキングを作成しました。"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Custom Field"
+msgstr "カスタムフィールド"
+
+msgid "Custom field name"
+msgstr "カスタムフィールド名"
+
+msgid "Custom ranking"
+msgstr "カスタムランキング"
+
+msgid "Custom ranking choice"
+msgstr "カスタムランキング選択"
+
+msgid "Data"
+msgstr "データ"
+
+msgid "Date of the article"
+msgstr "記事の日付です"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Default value"
+msgstr "デフォルト値"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Deleted the custom ranking"
+msgstr "カスタムランキングを削除しました。"
+
+msgid "Deleted by a dashboard"
+msgstr "ダッシュボードから削除"
+
+msgid "Describe it before the header output"
+msgstr "ヘッダ出力前に記述"
+
+msgid "Describe it on the part which I want to display"
+msgstr "表示したい部分に記述"
+
+msgid "Description example"
+msgstr "記述例"
+
+msgid "Designated / exclusion setting"
+msgstr "指定/除外設定"
+
+msgid "Directory with data"
+msgstr "データのあるディレクトリ"
+
+msgid "Display a category judgment, a ranking in single.php"
+msgstr "single.phpでカテゴリ判定・ランキング表示"
+
+msgid "Display a ranking of 2/15 - 3/15 in 2015"
+msgstr "2015年2/15～3/15のランキングを表示"
+
+msgid "Display a ranking of 2015"
+msgstr "2015年のランキングを表示"
+
+msgid "Display a ranking of February, 2015"
+msgstr "2015年2月のランキングを表示"
+
+msgid "Display a specific category ranking in a fixed page"
+msgstr "固定ページで特定のカテゴリランキングを表示"
+
+msgid "Display all it by original HTML"
+msgstr "独自HTMLで全て表示"
+
+msgid "Display setting"
+msgstr "表示設定"
+
+msgid "Do not exist whether this ranking was deleted"
+msgstr "このランキングは削除されたか、存在しません"
+
+msgid "Do you carry it out?"
+msgstr "実行しますか？"
+
+msgid "Do you really reset it?"
+msgstr "本当にリセットしますか？"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Effectively"
+msgstr "有効"
+
+msgid "End day when I appoint a period by manual operation"
+msgstr "手動で期間を指定する場合の終了日です"
+
+msgid "End month when I appoint a period by manual operation"
+msgstr "手動で期間を指定する場合の終了月です"
+
+msgid "Every day"
+msgstr "毎日"
+
+msgid "Every month"
+msgstr "毎月"
+
+msgid "Every week"
+msgstr "毎週"
+
+msgid "Exclude plural posts from a ranking"
+msgstr "複数の投稿をランキングから除外"
+
+msgid "Exclude specific category / tag from a ranking"
+msgstr "特定カテゴリ/タグをランキングから除外"
+
+msgid "Exclusion setting"
+msgstr "除外設定"
+
+msgid "Explanation"
+msgstr "説明"
+
+msgid "Extract of the article"
+msgstr "記事の抜粋です"
+
+msgid "Eye catch"
+msgstr "アイキャッチ"
+
+msgid "FAQs"
+msgstr "よくある質問"
+
+msgid "Format of the date"
+msgstr "日付のフォーマット"
+
+msgid "Forward"
+msgstr "前へ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML setting"
+msgstr "HTML設定"
+
+msgid "Have been already added"
+msgstr "すでに追加済みです。"
+
+msgid "Height"
+msgstr "縦"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "* I can display it even if I describe it in a mass in the point that wants to let you display it depending on a template"
+msgstr "・テンプレートによっては表示させたい箇所にまとめて記述しても表示できます。"
+
+msgid "* I can use original CSS and HTML by using \"use_html_template=0\". In addition, I can control the item letting you display it"
+msgstr "・「use_html_template=0」を使用することで独自CSS及びHTMLが使用できます。また、表示させる項目もコントロールできます。"
+
+msgid "I canceled it. There are no data restored to the original state"
+msgstr "中止しました。復元するデータがありません。"
+
+msgid "I use the setting of WordPress"
+msgstr "WordPressの設定を使う"
+
+msgid "Image Preview"
+msgstr "イメージプレビュー"
+
+msgid "Image type"
+msgstr "画像タイプ"
+
+msgid "In the case of plural"
+msgstr "複数の場合"
+
+msgid "In this case default CSS comes to be applied"
+msgstr "・この場合、デフォルトCSSが適用されるようになります。"
+
+msgid "Indication"
+msgstr "表示"
+
+msgid "Indication control"
+msgstr "表示コントロール"
+
+msgid "Invalidity"
+msgstr "無効"
+
+msgid "It is a start month when I appoint a period by manual operation"
+msgstr "手動で期間を指定する場合の開始月です"
+
+msgid "It is the URL of the thumbnail image. URL escape finished"
+msgstr "サムネイル画像のURLです。URLエスケープ済みです"
+
+msgid "It is the permanent link of the article. URL escape finished"
+msgstr "記事のパーマリンクです。URLエスケープ済みです"
+
+msgid "List of backup file"
+msgstr "バックアップファイル一覧"
+
+msgid "List of parameters"
+msgstr "パラメータ一覧"
+
+msgid "Local time"
+msgstr "現地時間"
+
+msgid "Make"
+msgstr "作成する"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Mobile"
+msgstr "モバイル"
+
+msgid "More than a administer"
+msgstr "管理者以上"
+
+msgid "More than a author"
+msgstr "投稿者以上"
+
+msgid "More than a contributor"
+msgstr "寄稿者以上"
+
+msgid "More than a subscriber"
+msgstr "購読者以上"
+
+msgid "More than an editor"
+msgstr "編集者以上"
+
+msgid "Narrowing"
+msgstr "絞り込み"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "Non-classification"
+msgstr "未分類"
+
+msgid "Number of Display"
+msgstr "表示件数"
+
+msgid "Number of the comment"
+msgstr "コメント数"
+
+msgid "On the part which wants to output a ranking with the following cords"
+msgstr "以下のコードをランキングを出力したい部分に"
+
+msgid "Only one displays it"
+msgstr "一つだけ表示"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Order"
+msgstr "順位です"
+
+msgid "Order indication"
+msgstr "順位表示"
+
+msgid "Origin of access to exclude"
+msgstr "除外するアクセス元"
+
+msgid "Original"
+msgstr "オリジナル"
+
+msgid "PC"
+msgstr "PC"
+
+msgid "PHP code"
+msgstr "PHPコード"
+
+msgid "PHP cord description example"
+msgstr "PHPコード記述例"
+
+msgid "PV"
+msgstr "PV"
+
+msgid "Page View"
+msgstr "ページビューです"
+
+msgid "Page view"
+msgstr "ページビュー"
+
+msgid "Parameter"
+msgstr "パラメータ"
+
+msgid "Parameter for the PHP cord"
+msgstr "PHPコード用パラメータ"
+
+msgid "Parameter for the original HTML"
+msgstr "オリジナルHTML用パラメータ"
+
+msgid "Pattern"
+msgstr "パターン"
+
+msgid "Pattern1"
+msgstr "パターン1"
+
+msgid "Pattern2"
+msgstr "パターン2"
+
+msgid "Pattern3"
+msgstr "パターン3"
+
+msgid "Period designation"
+msgstr "期間指定"
+
+msgid "Permanent link of the creator of the article. URL escape finished"
+msgstr "記事の作成者のパーマリンクです。URLエスケープ済みです"
+
+msgid "Please appoint a directory"
+msgstr "ディレクトリを指定してください。"
+
+msgid "Please appoint a directory of the backup"
+msgstr "バックアップ先のディレクトリを指定してください。"
+
+msgid "Please appoint an existing directory"
+msgstr "存在するディレクトリを指定してください。"
+
+msgid "Please consider whether you take the backup because you cannot return this operation carefully"
+msgstr "この操作は元に戻せませんので、バックアップを取るか、慎重にご検討ください。"
+
+msgid "Please push the button for some reason when you want to rebuild cache (the confirmation screen does not exit)"
+msgstr "何らかの理由でキャッシュを再構築したい場合はボタンを押してください（確認画面は出ません）"
+
+msgid "Post ID"
+msgstr "投稿ID"
+
+msgid "Post to exclude"
+msgstr "除外する投稿"
+
+msgid "Post type"
+msgstr "投稿タイプ"
+
+msgid "Post type choice"
+msgstr "投稿タイプ選択"
+
+msgid "Ranking according to the category"
+msgstr "カテゴリ別ランキング"
+
+msgid "Ranking cache"
+msgstr "ランキングキャッシュ"
+
+msgid "Ranking name"
+msgstr "ランキング名"
+
+msgid "Ranking title"
+msgstr "ランキングタイトル"
+
+msgid "HTTP referers to exclude"
+msgstr "除外するリファラー"
+
+msgid "Really restore it?"
+msgstr "本当にリストアしますか？"
+
+msgid "Rebuilding"
+msgstr "再構築する"
+
+msgid "Rebuilding of the cache"
+msgstr "キャッシュの再構築"
+
+msgid "Rebuilt cache"
+msgstr "キャッシュを再構築しました。"
+
+msgid "Remove a login user"
+msgstr "ログインユーザーを除く"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Reset page view"
+msgstr "ページビューをリセットしました。"
+
+msgid "Restore"
+msgstr "リストア"
+
+msgid "Restore from backup"
+msgstr "バックアップからリストアします。"
+
+msgid "Restored page view"
+msgstr "ページビューをリストアしました。"
+
+msgid "Save"
+msgstr "設定"
+
+msgid "Setting"
+msgstr "セッティング"
+
+msgid "Short Code"
+msgstr "ショートコード"
+
+msgid "Show WP-Ranking PRO widget"
+msgstr "WP-Ranking PRO のランキングを表示"
+
+msgid "Size of the thumbnail"
+msgstr "サムネイルのサイズ"
+
+msgid "Start counting again from the stage when I reset it when I reset page view"
+msgstr "ページビューをリセットすると、リセットした段階からカウントを再スタートします。"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Statistics Preview"
+msgstr "統計プレビュー"
+
+msgid "Statistics are displayed by a dashboard"
+msgstr "ダッシュボードに統計を表示"
+
+msgid "Store all 0"
+msgstr "0ならすべて保存する。"
+
+msgid "Substitute image"
+msgstr "代替画像"
+
+msgid "TOTAL"
+msgstr "合計"
+
+msgid "Tag"
+msgstr "タグ"
+
+msgid "Tag name"
+msgstr "タグ名"
+
+msgid "Tag to exclude"
+msgstr "除外するタグ"
+
+msgid "Targeted for count"
+msgstr "集計対象"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "The acquisition key to access former IP address"
+msgstr "アクセス元IPアドレスの取得キー"
+
+msgid "The capital letter small letter is distinguished by setting of WordPress"
+msgstr "WordPressの設定により、大文字小文字は区別されます。"
+
+msgid "The directory with data, please appoint a directory"
+msgstr "データのあるディレクトリはディレクトリを指定してください。"
+
+msgid "The end year when I appoint a period by manual operation"
+msgstr "手動で期間を指定する場合の終了年です"
+
+msgid "The first image in the contribution"
+msgstr "投稿内の最初の画像"
+
+msgid "The following cords before the header output"
+msgstr "以下のコードをヘッダ出力前に"
+
+msgid "The log acquisition by the Ajax"
+msgstr "Ajaxでのログ取得"
+
+msgid "The loop"
+msgstr "ループ内"
+
+msgid "The number of the backup to store"
+msgstr "保存するバックアップ数"
+
+msgid "The number of the comment"
+msgstr "コメント数です"
+
+msgid "The number of the letters of the article title"
+msgstr "記事タイトルの文字数"
+
+msgid "The number of the letters of the extract"
+msgstr "抜粋の文字数"
+
+msgid "The start year when I appoint a period by manual operation"
+msgstr "手動で期間を指定する場合の開始年です"
+
+msgid "The starting date when I appoint a period by manual operation"
+msgstr "手動で期間を指定する場合の開始日です"
+
+msgid "This ranking.."
+msgstr "このランキングを"
+
+msgid "Time"
+msgstr "時ごろ"
+
+msgid "Time to back it up automatically"
+msgstr "自動バックアップする時間帯"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Title of the article"
+msgstr "記事のタイトルです"
+
+msgid "Title of the article. It has been escaped for an HTML attribute price"
+msgstr "記事のタイトルです。HTML属性値としてエスケープ済みです"
+
+msgid "Title setting"
+msgstr "タイトル設定"
+
+msgid "Type1"
+msgstr "タイプ1"
+
+msgid "Type2"
+msgstr "タイプ2"
+
+msgid "Type3"
+msgstr "タイプ3"
+
+msgid "Unexpected error: $post is not ready"
+msgstr "Unexpected error: $post is not ready"
+
+msgid "Updated a custom ranking"
+msgstr "カスタムランキングを更新しました。"
+
+msgid "Upload"
+msgstr "更新"
+
+msgid "User agent to treat as mobile"
+msgstr "モバイルとして扱うユーザーエージェント"
+
+msgid "Value of the custom field"
+msgstr "カスタムフィールドの値です"
+
+msgid "Various period designation"
+msgstr "様々な期間指定"
+
+msgid "Vertical width of the thumbnail image"
+msgstr "サムネイル画像の縦幅です"
+
+msgid "WP-Ranking PRO"
+msgstr "WP-Ranking PRO"
+
+msgid "WP-Ranking PRO Management screen"
+msgstr "WP-Ranking PRO 管理画面"
+
+msgid "WP-Ranking PRO widget"
+msgstr "WP-Ranking PRO ウィジェット"
+
+msgid "Was going to edit a ranking not to exist"
+msgstr "存在しないランキングを編集しようとしました。"
+
+msgid "When I change the following setting and save it, backup is carried out once at that point"
+msgstr "以下の設定を変更し保存した場合、その時点で一度バックアップが実行されます。"
+
+msgid "When I change the following setting and save it, cache is rebuilt"
+msgstr "以下の設定を変更し保存した場合、キャッシュが再構築されます。"
+
+msgid "When I input a wrong value into this setting and do it, I cannot acquire an IP address normally. Please be careful enough"
+msgstr "この設定に間違った値を入力するなどすると、正常にIPアドレスが取得できません。十分に注意してください。"
+
+msgid "When I use the HTML of the default, I appoint it which pattern you use"
+msgstr "デフォルトのHTMLを使用する場合、どのパターンを使用するかを指定します"
+
+msgid "When I use the ranking of the established period, I appoint 1. In the case of manual operation, I appoint 0"
+msgstr "既定の期間のランキングを使用する場合は1を指定。手動の場合は0を指定"
+
+msgid "Width"
+msgstr "横"
+
+msgid "Width of the thumbnail image"
+msgstr "サムネイル画像の横幅です"
+
+msgid "by"
+msgstr "by"
+
+msgid "category"
+msgstr "category"
+
+msgid "mobile"
+msgstr "mobile"
+
+msgid "views"
+msgstr "views"
+
+msgid "zlib extension of PHP cannot use the backup re-store function for invalidity"
+msgstr "PHPのzlibエクステンションが無効のため、バックアップ・リストア機能は使用できません。"
+
+msgid "×"
+msgstr "×"
+
+msgid "** Specifically, please refer to \"the PHP cord description example\" of \"the help\""
+msgstr "※詳しくは「ヘルプ」の「PHPコード記述例」をご参照ください。"
+
+msgid "** The thing which I edited in follows by making the choice mentioned above \"an original\" is reflected"
+msgstr "※上記選択を「オリジナル」にすることで下記にて編集したものが反映されます"
+
+msgid "▲"
+msgstr "▲"
+
+msgid "▼"
+msgstr "▼"
+
+msgid "▽"
+msgstr "▽"
+
+msgid "User agent to exclude"
+msgstr "除外するユーザーエージェント"
+
+msgid "An end can input a plural number by a party. I do not add up access through applicable the user agent"
+msgstr "一行ずつ区切って複数入力できます。該当ユーザーエージェントからのアクセスを集計しません。"
+
+msgid "Clean-up log"
+msgstr "ログ削除"
+
+msgid "When I change the following setting and save it, clean-up is carried out once at that point"
+msgstr "以下の設定を変更し保存した場合、その時点で一度ログ削除が実行されます。"
+
+msgid "Automatic clean up the log"
+msgstr "自動ログ削除"
+
+msgid "Clean-up period"
+msgstr "削除周期"
+
+msgid "Time to clean it up automatically"
+msgstr "自動削除する時間帯"
+
+msgid "Period to delay the clean-up"
+msgstr "ログ削除の遅延期間"
+
+msgid "Make a ranking"
+msgstr "ランキングをつくる"
+
+msgid "* Basic how to use"
+msgstr "■ 基本的な使い方"
+
+msgid "*Ranking indication using the widget"
+msgstr "■ ウィジェットを使ったランキング表示"
+
+msgid "1. Make a favorite ranking in \"custom ranking\" of the menu"
+msgstr "1. メニューの「カスタムランキング」でお好みのランキングを作成します"
+
+msgid "2. Add \"WP-Ranking PRO\" to the favorite point by a widget menu and choose the ranking that I made with 1"
+msgstr "2. ウィジェットメニューにて「WP-Ranking PRO」を好きな箇所に追加し、1で作成したランキングを選択します"
+
+msgid "*Ranking indication using the PHP cord"
+msgstr "■ PHPコードを使ったランキング表示"
+
+msgid "1. Make a favorite ranking in \"the custom ranking\" of the menu"
+msgstr "1. メニューの「カスタムランキング」でお好みのランキングを作成します"
+
+msgid "2. Paste it on the point that wants to let you display generated \"PHP code\""
+msgstr "2. 生成された「PHPコード」を表示させたい箇所にペーストします"
+
+msgid "* Edit a custom ranking"
+msgstr "■ カスタムランキングを編集する"
+
+msgid "Choose \"statistics \"->\" custom\" of the menu and choose the ranking that I want to edit"
+msgstr "メニューの「統計」→「カスタム」を選択し、編集したいランキングを選択します"
+
+msgid "Just reflected automatically when I change the item which I want to edit"
+msgstr "編集したい項目を変更すると、そのまま自動的に反映されます"
+
+msgid "* Delete the custom ranking"
+msgstr "■ カスタムランキングを削除する"
+
+msgid "Choose \"statistics \"->\" custom\" of the menu and choose the ranking that I want to delete"
+msgstr "メニューの「統計」→「カスタム」を選択し、削除したいランキングを選択します"
+
+msgid "Because \"deletion\" and a displayed point become the blank, please be careful"
+msgstr "削除すると表示されていた箇所が空白になりますのでご注意ください"
+
+msgid "* Set \"automatic deletion of the log\""
+msgstr "■ 「ログの自動削除」を設定する"
+
+msgid "Choose \"the deletion of data \"->\" log\" of the menu and turn on automatic deletion in a designated period"
+msgstr "メニューの「データ」→「ログの削除」を選択し、指定周期で自動削除をオンにしておきます"
+
+msgid "Setting-related"
+msgstr "設定関連"
+
+msgid "* The log acquisition by the Ajax"
+msgstr "■ Ajaxでのログ取得"
+
+msgid "When I use plug in of cache origin, I check it when a count is not acquired well"
+msgstr "キャッシュ系プラグインを使用している際、カウントが上手く取得されていない場合はチェックしてください"
+
+msgid "* Acquire the page view of the smartphone"
+msgstr "■ スマートフォンのページビューを取得する"
+
+msgid "Count access from mobile by setting a user agent."
+msgstr "ユーザーエージェントを設定することでモバイルからのアクセスをカウントします。"
+
+msgid "When you do not understand it, please paste follows."
+msgstr "分からない場合は下記をペーストしてください。"
+
+msgid "About \"data\""
+msgstr "データ関連"
+
+msgid "* About \"deletion of the log\""
+msgstr "■ 「ログの削除」について"
+
+msgid "* With \"log deletion,\" it becomes the function to delete the raw log data of the user. (as for the TABLE name \"wpr_views\")"
+msgstr "・ 「ログ削除」とは、ユーザーの生ログデータを削除する機能となります。（テーブル名は「wpr_views」）"
+
+msgid "* These data become the data for the device distinction of the user. It is the data which do not have any problem even if I delete it."
+msgstr "・ このデータは、ユーザーのデバイス判別用データとなります。削除しても問題無いデータです。"
+
+msgid "* A schedule is started when I validate automatic deletion after having deleted the past data once."
+msgstr "・ 自動削除を有効にすると、一度過去データを削除した上でスケジュールが開始されます。"
+
+msgid "* Confirm the confirmation of the schedule in plug in such as \"WP Crontrol\". (as for the schedule name \"wpr_scheduled_cleanlog\")"
+msgstr "・ スケジュールの確認は「WP Crontrol」等のプラグインで確認することができます。（スケジュール名は「wpr_scheduled_cleanlog」）"
+
+msgid "* When data are going to delete it in an enlarged state, a server may stop by load of the deletion processing. Let's delete it diligently."
+msgstr "・ データが肥大化した状態で削除を行おうとすると、削除処理の負荷によりサーバーが停止する可能性があります。こまめに削除しましょう。"
+
+msgid "* About the backup of data"
+msgstr "■ データのバックアップについて"
+
+msgid "Because the access data of WP-Ranking PRO gain article data and restrictions, you should back it up in DB backup plug in such as \"WP-DBManager\" regularly."
+msgstr "WP-Ranking PROのアクセスデータは記事データと紐付いております。<br>「WP-DBManager」等のDBバックアッププラグイン等で定期的にバックアップするとよいでしょう。"
+
+msgid "Item of the custom ranking"
+msgstr "カスタムランキングの項目"
+
+msgid "* Title setting"
+msgstr "■ タイトル設定"
+
+msgid "The name to like \"the ranking name.\" \"A ranking title\" is a title displayed on your WEB SITE"
+msgstr "「ランキング名」は好きな名前を。「ランキングタイトル」はWEB上に表示されるタイトルです"
+
+msgid "* About HTML"
+msgstr "■ HTMLについて"
+
+msgid "\"Number of number of category / comment / page view / contributor / date\" is displayed other than \"article title / thumbnail / order\" in \"a default\"."
+msgstr "「デフォルト」では「記事タイトル/サムネイル/順位」の他に「カテゴリー/コメント数/ページビュー数/投稿者/日付」が表示されます。"
+
+msgid "I can adjust the item which wants to let you display it by making \"an original\". In this case I will prepare for CSS beforehand."
+msgstr "「オリジナル」にすることで表示させたい項目を調整することができます。この場合はあらかじめCSSを準備しておきましょう。"
+
+msgid "Others"
+msgstr "その他"
+
+msgid "* Operator information"
+msgstr "■ 開発者情報"
+
+msgid "* Use example"
+msgstr "■ 使用例"
+
+msgid "It is really company site using this plug in."
+msgstr "実際に本プラグインを使用している自社サイトです。"
+
+msgid "If I discover malfunction I am happy when you can let me know"
+msgstr "不具合等発見しましたらご一報頂けますと幸いです。"
+
+msgid "CONTACT"
+msgstr "お問い合わせ"
